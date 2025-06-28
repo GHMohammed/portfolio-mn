@@ -1,0 +1,216 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hello, I'm",
+    "name": "Mohammad Nour Aldeen",
+    "title": "Front-end Developer",
+    "subtitle": "I develop responsive, interactive, and multilingual websites powered by modern web technologies.",
+    "cta": "Get In Touch",
+    "viewProjects": "View Projects"
+  },
+  "about": {
+    "title": "About Me",
+    "skillsTitle": "Technical Skills",
+    "description": {
+      "p1": "Muhammad Nooruddin, a Frontend Developer and final-year Computer Engineering student, with freelance experience delivering technical projects for clients in the UAE and Qatar. Specialized in building high-quality web applications using React.js and Next.js, while crafting visually appealing and responsive user interfaces with Tailwind CSS and Framer Motion.",
+
+      "p2": "Through my freelance journey, I've developed digital solutions for diverse client needs with strong emphasis on technical performance and user experience. I combine solid academic foundations with hands-on field experience to deliver comprehensive products.",
+
+      "p3": "Committed to developing web applications that meet modern industry standards while continuously evolving with best practices in the field. My constant drive is transforming ideas into technical realities that make a tangible difference."
+    },
+    "personal": {
+      "location": "Location",
+      "locationValue": "Damascus, Syria",
+      "education": "Education",
+      "educationValue": "Computer Engineering",
+      "specialization": "Specialization",
+      "specializationValue": "Front-End Development"
+    },
+    "skills": {
+      "react": "React.js",
+      "nextjs": "Next.js",
+      "tailwind": "Tailwind CSS",
+      "responsive": "Responsive Design"
+    },
+    "stats": {
+      "experience": "Years Experience",
+      "projects": "Completed Projects",
+      "dedication": "Dedication"
+    }
+  },
+  "skills": {
+    "title": "My Skills",
+    "subtitle": "A collection of my technical and professional capabilities",
+    "frontend": "Frontend Development",
+    "programming": "Programming Languages",
+    "networking": "Networking",
+    "tools": "Development Tools",
+    "productivity": "Productivity Tools",
+    "languages": "Languages",
+    "soft": "Soft Skills"
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "allProjectsTitle": "My Projects",
+    "allProjectsSubtitle": "Explore my collection of creative works and professional projects",
+    "metaDescription": "A collection of my featured technical projects that showcase my programming skills and expertise.",
+    "viewProjects": "View Projects",
+    "viewLive": "View Live",
+    "viewCode": "View Code",
+    "privateCode": "Private Code",
+    "privateCodeTooltip": "The source code for this project is private",
+    "viewDetails": "View Details",
+    "viewAllProjects": "View All Projects",
+    "backToHome": "Back to Home",
+
+    "al-baheej": {
+      "title": "Al-Baheej Center Website",
+      "description": "A bilingual, responsive website for Al-Baheej Educational & Psychological Training Center, designed to facilitate consultation booking and showcase programs.",
+      "fullDescription": "The Al-Baheej Center website is a modern, fully responsive platform built for a psychological and educational training center led by consultant Noor Rayhan. The site is designed to help users book consultations via WhatsApp, explore a variety of training programs, watch podcast episodes, and read testimonials. It supports both Arabic and English through i18n, and features SEO optimization, accessibility considerations, and a calming visual design tailored for user trust and ease of navigation. The site is optimized for mobile, tablet, and desktop experiences, ensuring a smooth user journey across all devices.",
+      "tags": [
+        "React.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "i18n",
+        "SEO Optimization",
+        "Responsive Design"
+      ],
+      "features": {
+        "feature1": "Consultation booking via WhatsApp with pre-filled messages",
+        "feature2": "Multilingual support (Arabic & English) using i18n",
+        "feature3": "Clean, accessible, and user-friendly interface",
+        "feature4": "Dedicated pages for programs, testimonials, FAQs, podcasts, and about",
+        "feature5": "SEO-optimized meta tags and Open Graph data for social sharing",
+        "feature6": "Responsive design compatible with all screen sizes"
+      },
+      "challenges": {
+        "challenge1": "Designing a bilingual layout with RTL and LTR support",
+        "challenge2": "Maintaining clarity and simplicity while presenting multiple programs",
+        "challenge3": "Ensuring consistent styling and layout across different content types",
+        "challenge4": "Optimizing SEO and structured data for visibility in Arabic search queries"
+      }
+    },
+    "al-aswad-real-estate": {
+      "title": "Al-Aswad Real Estate Website",
+      "description": "A bilingual, responsive real estate website that showcases properties for sale and rent with advanced filtering and detailed listings.",
+      "fullDescription": "The Al-Aswad Real Estate website is a modern, fully responsive platform designed to display residential and commercial properties in a clean and user-friendly layout. The site features advanced property filtering (by type, price, location, and features), interactive property details pages with media galleries and Google Maps, and informative sections such as services, blog, and contact. Built with React.js and Tailwind CSS, the platform supports Arabic and English using i18n and is SEO-optimized with semantic HTML, meta tags, sitemap, and robots.txt. The design features an Arabic-inspired palette that enhances trust and cultural familiarity.",
+      "tags": [
+        "React.js",
+        "Tailwind CSS",
+        "i18n",
+        "SEO Optimization",
+        "Responsive Design",
+        "Multilingual Website"
+      ],
+      "features": {
+        "feature1": "Bilingual interface (Arabic & English) using react-i18next",
+        "feature2": "Advanced search and filtering of properties",
+        "feature3": "Responsive design adaptable to all screen sizes",
+        "feature4": "Detailed property pages with images, specs, and maps",
+        "feature5": "SEO-friendly structure with meta tags, sitemap, and robots.txt",
+        "feature6": "Arabic-themed design with traditional color palette"
+      },
+      "challenges": {
+        "challenge1": "Designing a seamless multilingual interface with RTL support",
+        "challenge2": "Balancing aesthetics with usability in property filtering",
+        "challenge3": "Structuring reusable components across multiple pages",
+        "challenge4": "Ensuring SEO compatibility for both Arabic and English content"
+      }
+    },
+    "home-fix": {
+      "title": "Home Fix UAE Website",
+      "description": "A multilingual company profile website for a home maintenance company named Home Fix UAE, featuring responsive design and trust-oriented UI with SEO support.",
+      "fullDescription": "This project is a professional company profile website built for a fictional home maintenance service company called 'Home Fix UAE'. The website is fully responsive and supports four languages: Arabic, English, Hindi, and Urdu — catering to the diverse audience in the UAE. It includes core pages such as Home, Services, Gallery, About Us, Contact, and an optional Pricing page. Built using React and Tailwind CSS, the site is optimized for search engines (SEO) and user experience (UX), featuring a clean layout and a trustworthy color scheme based on dark blue and orange. The project demonstrates strong capability in building real-world business-ready websites, with potential for future scalability.",
+      "tags": [
+        "React.js",
+        "Tailwind CSS",
+        "i18next",
+        "Responsive Design",
+        "Multilingual (AR/EN/HI/UR)",
+        "SEO Optimization"
+      ],
+      "features": {
+        "feature1": "Supports four languages (Arabic, English, Hindi, Urdu) with RTL and LTR compatibility",
+        "feature2": "Fully responsive layout across all screen sizes",
+        "feature3": "SEO optimized using meta tags, sitemap, and structured data",
+        "feature4": "Clear core pages including Services, Gallery, Contact, and About Us",
+        "feature5": "Clean and professional UI with a trust-focused color scheme"
+      },
+      "challenges": {
+        "challenge1": "Implementing full RTL support without breaking the layout",
+        "challenge2": "Maintaining visual consistency across four language interfaces",
+        "challenge3": "Ensuring high performance and SEO optimization in a multilingual setup",
+        "challenge4": "Designing a modern, business-ready UI without unnecessary complexity"
+      }
+    },
+    "part-time": {
+      "title": "Part-Time Platform",
+      "description": "A responsive job platform connecting university students with flexible, part-time opportunities.",
+      "fullDescription": "Part-Time is a web platform designed to bridge the gap between university students and the job market by offering flexible work opportunities tailored to student life. The platform allows students to create profiles, browse jobs by category and location, and apply with ease. Companies can post job openings, manage applications, and discover talented young professionals. With a user-friendly design and clear user flows for both students and employers, the platform aims to support career growth while maintaining academic commitments. The project was built with scalability and multilingual support in mind to serve a broad range of users.",
+      "tags": [
+        "React.js",
+        "Tailwind CSS",
+        "TypeScript",
+        "i18next",
+        "Responsive Design",
+        "SEO Optimization"
+      ],
+      "features": {
+        "feature1": "Separate dashboards for students and companies",
+        "feature2": "Student profile management with academic and skill details",
+        "feature3": "Job browsing and filtering by location, type, and field",
+        "feature4": "Job posting and applicant management for companies",
+        "feature5": "Responsive and mobile-friendly design"
+      },
+      "challenges": {
+        "challenge1": "Designing an intuitive UX for two distinct user types (students and companies)",
+        "challenge2": "Implementing dynamic filtering and search for job listings",
+        "challenge3": "Ensuring scalability for future features like notifications and real-time updates"
+      }
+    }
+  },
+  "projectDetail": {
+    "notFound": "Project Not Found",
+    "backHome": "Back to Home",
+    "backToPortfolio": "Back to Portfolio",
+    "technologies": "Technologies Used",
+    "keyFeatures": "Key Features",
+    "challenges": "Challenges & Solutions",
+    "aboutProject": "About This Project"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "subtitle": "We're here to answer all your questions. Feel free to contact us using the form or directly via our contact channels.",
+    "infoTitle": "Contact Information",
+    "formTitle": "Send Us a Message",
+    "WhatsAppsocial": "Contact us",
+    "clickToChat": "Message me directly",
+    "scanToChat": "Scan QR code to chat",
+    "info": {
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "location": "Location"
+    },
+    "socialTitle": "Social Media",
+    "name": "Full Name",
+    "namePlaceholder": "Enter your name here",
+    "email": "Email Address",
+    "emailPlaceholder": "Enter your email address here",
+    "message": "Message",
+    "messagePlaceholder": "Write your message here...",
+    "send": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Your message has been sent successfully! We'll get back to you soon.",
+    "errorMessage": "An error occurred while sending your message. Please try again later."
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "built": "Built with React & Tailwind CSS"
+  }
+}
