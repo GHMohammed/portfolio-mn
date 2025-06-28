@@ -3,12 +3,15 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "/",
+  base: "/", // مهم لمسار الملفات في Vercel
   optimizeDeps: {
-    exclude: ["lucide-react"],
+    exclude: ["lucide-react"], // استثناء الحزم غير الضرورية
   },
   server: {
-    host: "0.0.0.0", // <<< يسمح بفتح الموقع من أي جهاز على الشبكة
-    port: 5173, // <<< يمكن تغييره إذا أردت
+    host: "0.0.0.0", // إعدادات التطوير المحلي فقط (لا تؤثر على Vercel)
+    port: 5173, // إعدادات التطوير المحلي فقط
+  },
+  build: {
+    outDir: "dist", // تأكد من وجود هذا السطر
   },
 });
