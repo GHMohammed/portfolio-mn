@@ -13,9 +13,9 @@ export interface Project {
 export const projects: Project[] = [
   {
     id: "al-baheej",
-    image: "/project/al-baheej/image1.jpg",
-    demoUrl: "https://demo-ecommerce.example.com",
-    codeUrl: "https://github.com/GHMohammed/ecommerce-platform",
+    image: "/project/al-baheej/image1.png",
+    demoUrl: "https://al-baheej-mn.netlify.app/",
+    codeUrl: "https://github.com/GHMohammed/",
     isCodePrivate: true,
     featured: true,
     gallery: [
@@ -29,8 +29,8 @@ export const projects: Project[] = [
   {
     id: "al-aswad-real-estate",
     image: "/project/al-aswad-real-estate/image1.png",
-    demoUrl: "https://demo-taskmanager.example.com",
-    codeUrl: "https://github.com/GHMohammed/task-management",
+    demoUrl: "https://al-aswad.netlify.app/",
+    codeUrl: "https://github.com/GHMohammed/",
     isCodePrivate: true,
     featured: true,
     gallery: [
@@ -45,9 +45,9 @@ export const projects: Project[] = [
   {
     id: "home-fix",
     image: "/project/home-fix/image1.png",
-    demoUrl: "https://demo-weather.example.com",
-    codeUrl: "https://github.com/GHMohammed/weather-dashboard",
-    isCodePrivate: false,
+    demoUrl: "https://home-fix-mn.netlify.app/",
+    codeUrl: "https://github.com/GHMohammed/",
+    isCodePrivate: true,
     featured: true,
     gallery: [
       "/project/home-fix/image2.png",
@@ -62,8 +62,8 @@ export const projects: Project[] = [
   {
     id: "part-time",
     image: "/project/part-time/image1.png",
-    demoUrl: "https://mohammad-portfolio.example.com",
-    codeUrl: "https://github.com/GHMohammed/portfolio-website",
+    demoUrl: "https://part-time-job-mn.netlify.app/",
+    codeUrl: "https://github.com/GHMohammed/",
     isCodePrivate: true,
     featured: true,
     gallery: [
