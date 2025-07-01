@@ -12,6 +12,7 @@
   "dependencies": {
     "@loadable/component": "^5.16.7",
     "@vercel/analytics": "^1.5.0",
+    "@vercel/speed-insights": "^1.2.0",
     "emailjs-com": "^3.2.0",
     "framer-motion": "^11.0.0",
     "i18next": "^23.8.0",
