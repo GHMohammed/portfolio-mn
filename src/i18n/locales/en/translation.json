@@ -68,7 +68,33 @@
     "viewDetails": "View Details",
     "viewAllProjects": "View All Projects",
     "backToHome": "Back to Home",
-
+    "justice-legal-portfolio": {
+      "title": "Justice Legal Services Website",
+      "description": "A bilingual responsive website for a law firm, showcasing legal services and expertise with a professional design and full SEO optimization.",
+      "fullDescription": "The Justice Legal Services website is a professional portfolio built to represent a trusted law firm. It features bilingual content (Arabic/English) covering information about the firm, legal practice areas, team members, and consultation booking. The design is clean, modern, and fully responsive, with a strong focus on user experience (UX) and search engine optimization (SEO). It is developed using React and Tailwind CSS, with RTL/LTR layout support powered by i18next. The site structure includes semantic HTML, meta tags, structured data, sitemap, and robots.txt to ensure optimal SEO performance in both languages.",
+      "tags": [
+        "React.js",
+        "Tailwind CSS",
+        "i18n",
+        "SEO Optimization",
+        "Responsive Design",
+        "Multilingual Website"
+      ],
+      "features": {
+        "feature1": "Bilingual interface (Arabic and English) with RTL and LTR support",
+        "feature2": "Professional presentation of legal services and specialties",
+        "feature3": "Consultation booking and contact form via email or WhatsApp",
+        "feature4": "Fully responsive layout across all devices",
+        "feature5": "SEO-friendly structure with meta tags and structured data",
+        "feature6": "Elegant UI with a color scheme that reflects trust and professionalism"
+      },
+      "challenges": {
+        "challenge1": "Designing a visually balanced RTL/LTR interface",
+        "challenge2": "Presenting legal services clearly without overwhelming the user",
+        "challenge3": "Integrating contact form with external platforms (email & WhatsApp)",
+        "challenge4": "Ensuring effective SEO for a multilingual environment"
+      }
+    },
     "al-baheej": {
       "title": "Al-Baheej Center Website",
       "description": "A bilingual, responsive website for Al-Baheej Educational & Psychological Training Center, designed to facilitate consultation booking and showcase programs.",

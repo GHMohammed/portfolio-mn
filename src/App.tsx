@@ -43,8 +43,8 @@ function App() {
     // Update title
     document.title =
       i18n.language === "ar"
-        ? "محمد نور الدين - مطور واجهات أمامية"
-        : "Mohammad Nour Aldeen - Frontend Developer";
+        ? "محمد نور الدين - مطور تطبيقات ومواقع ويب"
+        : "Mohammad Nour Aldeen - Web Applications and Websites Developer";
   }, [i18n.language]);
 
   return (
