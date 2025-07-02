@@ -9,7 +9,7 @@
   "hero": {
     "greeting": "Hello, I'm",
     "name": "Mohammad Nour Aldeen",
-    "title": "Front-end Developer",
+    "title": "Web Applications and Websites Developer",
     "subtitle": "I develop responsive, interactive, and multilingual websites powered by modern web technologies.",
     "cta": "Get In Touch",
     "viewProjects": "View Projects"
@@ -18,11 +18,11 @@
     "title": "About Me",
     "skillsTitle": "Technical Skills",
     "description": {
-      "p1": "Muhammad Nooruddin, a Web Applications & Websites Developer and final-year Computer Engineering student, with freelance experience delivering technical projects for clients in the UAE and Qatar. Specialized in building high-quality web applications using React.js and Next.js, while crafting visually appealing and responsive user interfaces with Tailwind CSS and Framer Motion.",
+      "p1": "Mohammad Nour Aldeen is a web applications and websites developer, working as a freelance software developer for companies in the UAE and Qatar. He specializes in building high-quality web applications using React.js and Next.js, along with designing attractive and responsive user interfaces using Tailwind CSS and Framer Motion.",
 
-      "p2": "Through my freelance journey, I've developed digital solutions for diverse client needs with strong emphasis on technical performance and user experience. I combine solid academic foundations with hands-on field experience to deliver comprehensive products.",
+      "p2": "Through my freelance experience, I have developed customized digital solutions that meet the diverse needs of clients across various sectors, focusing on delivering efficient technical performance and advanced user experience. My work combines a strong academic foundation with practical expertise to provide integrated and reliable applications.",
 
-      "p3": "Committed to developing web applications that meet modern industry standards while continuously evolving with best practices in the field. My constant drive is transforming ideas into technical realities that make a tangible difference."
+      "p3": "My goal is to develop web applications that comply with modern industry standards, with a constant commitment to following best practices in software development. I strive to transform technical ideas into practical solutions that add real value to users and stakeholders."
     },
     "personal": {
       "location": "Location",
