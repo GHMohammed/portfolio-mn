@@ -81,21 +81,23 @@ const Contact: React.FC = () => {
 
     emailjs
       .send(
-        "YOUR_EMAILJS_SERVICE_ID",
-        "YOUR_EMAILJS_TEMPLATE_ID",
+        "service_ly2d5fk",
+        "template_axoo95a",
         {
           from_name: formData.name,
           from_email: formData.email,
           message: formData.message,
           to_email: "contact@mohammednour.dev",
         },
-        "YOUR_EMAILJS_USER_ID"
+        "bqycRHNyUC9cQPMhQ"
       )
-      .then((response) => {
+      .then(() => {
+        // تمت إزالة response
         setSubmitStatus("success");
         setFormData({ name: "", email: "", message: "" });
       })
-      .catch((err) => {
+      .catch(() => {
+        // تمت إزالة err
         setSubmitStatus("error");
       })
       .finally(() => {
