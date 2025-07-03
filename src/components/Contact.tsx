@@ -230,7 +230,7 @@ const Contact: React.FC = () => {
                 >
                   <div className="p-3 bg-white rounded-xl shadow-sm border border-gray-100 hover:shadow-md transition-shadow">
                     <img
-                      src="/whatsapp-qr.png"
+                      src="/whatsapp-qr.webp"
                       alt="QR Code للواتساب"
                       className="w-36 h-36 object-contain"
                     />

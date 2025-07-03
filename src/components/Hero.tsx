@@ -114,7 +114,7 @@ const Hero: React.FC = () => {
               <div className="w-full h-full rounded-full bg-slate-100 overflow-hidden border-4 border-white/10 relative">
                 <img
                   className="w-full h-full object-cover"
-                  src="/my/my1.jpg"
+                  src="/my/my1.webp"
                   alt="Profile"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-blue-500/10 to-transparent"></div>
