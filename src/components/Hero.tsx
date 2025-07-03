@@ -115,7 +115,6 @@ const Hero: React.FC = () => {
                 <img
                   className="w-full h-full object-cover"
                   src="/my/my1.webp"
-                  loading="lazy"
                   alt="Profile"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-blue-500/10 to-transparent"></div>

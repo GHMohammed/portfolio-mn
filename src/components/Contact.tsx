@@ -299,7 +299,7 @@ const Contact: React.FC = () => {
             whileInView={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8 }}
             viewport={{ once: true }}
-            className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 w-full max-w-full"
+            className="bg-white p-8 rounded-2xl shadow-sm border border-gray-100 w-full max-w-full text-gray-800"
           >
             <form onSubmit={handleSubmit} className="space-y-6">
               <h3 className="text-2xl font-semibold text-gray-800 mb-6">
