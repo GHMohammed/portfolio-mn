@@ -2,6 +2,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
 import { ArrowDown, Github, Linkedin, Mail, Phone } from "lucide-react";
+import { Helmet } from "react-helmet-async";
 
 const Hero: React.FC = () => {
   const { t } = useTranslation();
@@ -50,6 +51,21 @@ const Hero: React.FC = () => {
       id="home"
       className="min-h-screen flex items-center justify-center relative overflow-hidden  bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800"
     >
+      <Helmet>
+        <title>{"محمد نور الدين - مطور واجهات ومواقع ويب"}</title>
+        <meta
+          name="description"
+          content={
+            "موقعي الرسمي لعرض مشاريعي كمطور مواقع باستخدام React و Next.js"
+          }
+        />
+        <meta
+          name="keywords"
+          content="React, Web Developer, Mohammad Nour, Portfolio"
+        />
+        <meta name="author" content="Mohammad Nour Aldeen" />
+        <link rel="canonical" href="https://www.mohammednour.dev/" />
+      </Helmet>
       {/* Floating Tech Elements */}
       <div className="absolute inset-0 overflow-hidden opacity-20">
         {[...Array(30)].map((_, i) => {

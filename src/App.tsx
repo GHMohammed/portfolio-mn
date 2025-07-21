@@ -15,6 +15,7 @@ import Footer from "./components/Footer";
 import ProjectDetail from "./components/ProjectDetail";
 import ScrollToTop from "./components/ScrollToTop";
 import AllProjectsPage from "./components/AllProjectsPage";
+import NotFound from "./components/NotFound";
 
 const HomePage: React.FC = () => {
   return (
@@ -56,6 +57,7 @@ function App() {
             <Route path="/" element={<HomePage />} />
             <Route path="/projects/:id" element={<ProjectDetail />} />
             <Route path="/allprojectspage" element={<AllProjectsPage />} />
+            <Route path="*" element={<NotFound />} />
           </Routes>
         </div>
       </Router>
