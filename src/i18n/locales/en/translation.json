@@ -149,6 +149,31 @@
         "challenge4": "Ensuring SEO compatibility for both Arabic and English content"
       }
     },
+    "ravora": {
+      "title": "REVORA Website for Automotive Oils and Accessories",
+      "description": "A multilingual website for a brand specialized in engine oil manufacturing, featuring a professional design and full SEO optimization.",
+      "fullDescription": "The REVORA website is a modern, fully responsive platform designed to showcase the products of a company specializing in automotive oils and related accessories. It includes dedicated pages for Home, Products, and About Us, and supports four languages: English, German, Spanish, and Arabic using the i18n library. The website offers a complete user experience with a clean, accessible design that adapts to different text directions and languages. Products are displayed in a well-organized layout that simplifies exploration and browsing for users.",
+      "tags": [
+        "React.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "i18n",
+        "SEO",
+        "Responsive Design"
+      ],
+      "features": {
+        "feature1": "Full support for four languages (Arabic, English, German, Spanish) using i18n",
+        "feature2": "Fully responsive design for all screen sizes and devices",
+        "feature3": "Organized product display with images and detailed information",
+        "feature4": "Smooth language switcher with RTL support for Arabic",
+        "feature5": "Clear page structure including Home, Products, and About Us"
+      },
+      "challenges": {
+        "challenge1": "Implementing multilingual support while maintaining usability and clean layout",
+        "challenge2": "Structuring and presenting product categories in an appealing and efficient way",
+        "challenge3": "Ensuring full compatibility with RTL layout for Arabic content"
+      }
+    },
     "home-fix": {
       "title": "Home Fix UAE Website",
       "description": "A multilingual company profile website for a home maintenance company named Home Fix UAE, featuring responsive design and trust-oriented UI with SEO support.",

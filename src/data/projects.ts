@@ -49,6 +49,16 @@ export const projects: Project[] = [
     features: ["feature1", "feature2", "feature3", "feature4"],
   },
   {
+    id: "ravora",
+    image: "/project/ravora/ravora.png",
+    demoUrl: "https://revoralubricants.com/",
+    codeUrl: "https://github.com/GHMohammed/",
+    isCodePrivate: true,
+    featured: true,
+    challenges: ["challenge1", "challenge2", "challenge3"],
+    features: ["feature1", "feature2", "feature3", "feature4", "feature5"],
+  },
+  {
     id: "home-fix",
     image: "/project/home-fix/image1.webp",
     demoUrl: "https://home-fix-mn.netlify.app/",
