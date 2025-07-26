@@ -50,7 +50,7 @@ export const projects: Project[] = [
   },
   {
     id: "ravora",
-    image: "/project/ravora/ravora.png",
+    image: "/project/ravora/ravora.webp",
     demoUrl: "https://revoralubricants.com/",
     codeUrl: "https://github.com/GHMohammed/",
     isCodePrivate: true,
