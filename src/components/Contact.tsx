@@ -35,7 +35,6 @@ const Contact: React.FC = () => {
       icon: Phone,
       label: t("contact.info.phone"),
       value: "+963 940 538 163",
-      href: "https://wa.me/963940538163",
     },
     {
       icon: MapPin,
