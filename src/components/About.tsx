@@ -60,7 +60,7 @@ const About: React.FC = () => {
 
   const stats = [
     {
-      number: "2+",
+      number: "3+",
       label: t("about.stats.experience"),
       icon: Briefcase,
       delay: 0.5,
@@ -68,7 +68,7 @@ const About: React.FC = () => {
       hoverColor: "text-purple-500",
     },
     {
-      number: "10+",
+      number: "20+",
       label: t("about.stats.projects"),
       icon: Code,
       delay: 0.7,
