@@ -18,11 +18,11 @@
     "title": "About Me",
     "skillsTitle": "Technical Skills",
     "description": {
-      "p1": "I’m Mohammed Nour Aldeen, a Web and Applications Developer currently working as a React & WordPress Developer at Sawa Tech. I have experience delivering tailored digital solutions for clients in the UAE and Qatar, with a strong focus on technical performance and user experience.",
+      "p1": "I am a Web and Application Developer with experience in creating professional digital solutions that meet the needs of both businesses and individuals. I previously worked as a React and WordPress Developer at SawaTech, where I contributed to projects for clients in the UAE and Qatar, maintaining a strong focus on performance and quality.",
 
-      "p2": "I specialize in building modern web applications using React.js and Next.js, designing responsive and engaging user interfaces with Tailwind CSS and Framer Motion, and developing as well as managing websites with WordPress.",
+      "p2": "I specialize in building modern web applications using React.js and Next.js, and in designing responsive, interactive interfaces with Tailwind CSS and Framer Motion, along with experience in developing and managing WordPress websites.",
 
-      "p3": "My goal is to provide reliable, high-quality software solutions that align with industry best practices and create real value for both users and businesses."
+      "p3": "I strive to deliver comprehensive and efficient software solutions that adhere to best industry practices and provide real value to users and businesses alike."
     },
     "personal": {
       "location": "Location",
