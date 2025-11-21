@@ -73,7 +73,7 @@ const Hero: React.FC = () => {
           const randomLeft = Math.random() * 100;
           const randomTop = Math.random() * 100;
           const randomOpacity = Math.random() * 0.3 + 0.1;
-          const symbols = ["</>", "{}", "() =>", "/", "|", "const", "function"];
+          const symbols = [""];
           const symbol = symbols[Math.floor(Math.random() * symbols.length)];
 
           return (
